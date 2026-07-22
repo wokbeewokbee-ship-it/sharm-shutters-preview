@@ -1,0 +1,29 @@
+/* Temporary brand tokens sampled visually from the supplied logo. Replace here when a final brand system is approved. */
+:root {
+  --color-primary: #0756b9;
+  --color-primary-dark: #073b78;
+  --color-accent: #f3bd16;
+  --color-white: #ffffff;
+  --color-surface: #f5f7fa;
+  --color-text: #102238;
+  --color-muted: #5d6b7a;
+  --color-border: #d7dee7;
+  --color-success: #18794e;
+  --color-error: #b42318;
+  --max-width: 1200px;
+  --header-height: 72px;
+  --radius-sm: .45rem;
+  --radius-md: .85rem;
+  --radius-lg: 1.4rem;
+  --shadow-sm: 0 8px 28px rgba(16,34,56,.09);
+  --shadow-lg: 0 24px 70px rgba(7,59,120,.16);
+  --space-1: .5rem;
+  --space-2: .75rem;
+  --space-3: 1rem;
+  --space-4: 1.5rem;
+  --space-5: 2rem;
+  --space-6: 3rem;
+  --space-7: 4.5rem;
+  --space-8: 6rem;
+  --transition: 180ms ease;
+}
